@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\blue_bell.props" />
+</Project>
